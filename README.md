@@ -25,7 +25,7 @@ Ex:
 #### Compile the application using the Kotlin compiler
 Run 
     ```kotlinc helleWorld.kt -include-runtime -d helleWorld.jar && java -jar helleWorld.jar```
-to convert kotlin codes to java code and run it.
+to convert kotlin code to java code and run it.
 
 #### Link to refer
 [Kotlin](https://kotlinlang.org/docs/tutorials/)
